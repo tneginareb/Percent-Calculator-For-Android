@@ -18,7 +18,7 @@ And finally XML looks like:
 
 
 
-To get Percent Support Library, add in gradle:
+To integrate Percent Support Library, add in gradle:
 dependencies 
 {
     compile 'com.android.support:percent:23.3.0'
